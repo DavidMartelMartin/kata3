@@ -37,3 +37,12 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Binarios y compilación (Requisito Kata 3) ###
+out/
+bin/
+*.class
+*.jar
+*.war
+*.zip
+*.exe
